@@ -2,5 +2,5 @@ package corp;
 
 public class method {
 
-    private String pers;
+    private String corp;
 }
